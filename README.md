@@ -1,3 +1,7 @@
+
+
+
+
 # 🚀 Dynamic Multi-Template Resume Builder
 
 A modern, Canva-inspired Resume Builder application built using **React + Vite + Tailwind CSS**, featuring real-time editing, dynamic template rendering, professional PDF export, and adaptive resume layouts.
@@ -162,14 +166,6 @@ Reusable architecture includes:
 * DynamicEditor
 
 ---
-
-# 🎥 Demo Video
-
-## Project Walkthrough
-
-*Add your demo video here*
-
-
 
 # 🚀 Live Deployment
 
